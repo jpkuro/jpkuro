@@ -13,7 +13,7 @@ Actualmente estoy mejorando mis skill en c# y asp.net <br>trabajando proyectos c
 ![](https://github-profile-trophy.vercel.app/?username=jpkuro&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+"La herramienta de depuración más efectiva sigue siendo un pensamiento cuidadoso, junto con declaraciones de impresión colocadas juiciosamente."
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jpkuro&icon=3&color=1)](https://visitcount.itsvg.in)
